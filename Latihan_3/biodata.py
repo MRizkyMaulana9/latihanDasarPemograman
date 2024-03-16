@@ -8,6 +8,8 @@ quote = "Tetap Hidup Jangan Mati"
 married = False
 adalahLakilaki = True
 hobi = ["nonton","main game"]
+
+#Print
 print("Nama Saya :", nama)
 print("Semester :", semester)
 print("Kelas :",kelas)
